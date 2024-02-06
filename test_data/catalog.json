@@ -1,0 +1,23 @@
+{
+    "type": "Catalog",
+    "id": "SBG-L2A-RESAMPLE",
+    "stac_version": "1.0.0",
+    "description": "STAC Catalog",
+    "links": [
+      {
+        "rel": "root",
+        "href": "/unity/ads/input_collections/SBG-L2A-RESAMPLE/catalog.json",
+        "type": "application/json"
+      },
+      {
+        "rel": "item",
+        "href": "/unity/ads/input_collections/SBG-L2A-RESAMPLE/SISTER_EMIT_L2A_RFL_20231206T160939_001.json",
+        "type": "application/json"
+      },
+      {
+        "rel": "item",
+        "href": "/unity/ads/input_collections/SBG-L2A-RESAMPLE/SISTER_EMIT_L2A_RFL_20231206T160939_001_UNC.json",
+        "type": "application/json"
+      }
+    ]
+  }
