@@ -91,7 +91,6 @@ dependencies:
   - proj=9.3.0=h1d62c97_2
   - pthread-stubs=0.4=h36c2ea0_1001
   - python=3.8.18=hd12c33a_0_cpython
-  - python=3.9.18
   - python_abi=3.8=4_cp38
   - readline=8.2=h8228510_1
   - setuptools=68.2.2=pyhd8ed1ab_0
